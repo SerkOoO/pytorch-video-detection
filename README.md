@@ -1,4 +1,4 @@
-# 🙂 Pytorch Video Detection
+# 🎥 Pytorch Video Detection
 
 **Pytorch Video Detection** is a small project that allows you to upload a video, and a pre-trained model will predict the action occurring in the video.
 
